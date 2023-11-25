@@ -1,0 +1,61 @@
+# //  Questa Sim-64
+# //  Version 2021.1 win64 Jan 19 2021
+# //
+# //  Copyright 1991-2021 Mentor Graphics Corporation
+# //  All Rights Reserved.
+# //
+# //  QuestaSim and its associated documentation contain trade
+# //  secrets and commercial or financial information that are the property of
+# //  Mentor Graphics Corporation and are privileged, confidential,
+# //  and exempt from disclosure under the Freedom of Information Act,
+# //  5 U.S.C. Section 552. Furthermore, this information
+# //  is prohibited from disclosure under the Trade Secrets Act,
+# //  18 U.S.C. Section 1905.
+# //
+# do sim.tcl
+# ** Warning: (vlib-34) Library already exists at "work".
+# Errors: 0, Warnings: 1
+# D:/Lessons/Arshad 3/Verification/Verilog/Example/09 generate/tcl
+# D:/Lessons/Arshad 3/Verification/Verilog/Example/09 generate/tcl/..
+# D:/Lessons/Arshad 3/Verification/Verilog/Example/09 generate/tcl/../design
+# D:/Lessons/Arshad 3/Verification/Verilog/Example/09 generate/tcl/../testbench
+# testbench
+# QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+# Start time: 14:33:10 on Nov 18,2023
+# vlog -reportprogress 300 "+acc" D:/Lessons/Arshad 3/Verification/Verilog/Example/09 generate/tcl/../design/latch.v 
+# -- Compiling module latch
+# 
+# Top level modules:
+# 	latch
+# End time: 14:33:10 on Nov 18,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+# Start time: 14:33:10 on Nov 18,2023
+# vlog -reportprogress 300 "+acc" D:/Lessons/Arshad 3/Verification/Verilog/Example/09 generate/tcl/../design/top.v 
+# -- Compiling module top
+# 
+# Top level modules:
+# 	top
+# End time: 14:33:11 on Nov 18,2023, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+# Start time: 14:33:11 on Nov 18,2023
+# vlog -reportprogress 300 "+acc" D:/Lessons/Arshad 3/Verification/Verilog/Example/09 generate/tcl/../testbench/testbench.sv 
+# -- Compiling module testbench
+# 
+# Top level modules:
+# 	testbench
+# End time: 14:33:11 on Nov 18,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vsim work.testbench 
+# Start time: 14:33:11 on Nov 18,2023
+# ** Note: (vsim-8009) Loading existing optimized design _opt
+# Loading sv_std.std
+# Loading work.testbench(fast)
+# Loading work.top(fast)
+# Loading work.latch(fast)
+# ** Note: $stop    : D:/Lessons/Arshad 3/Verification/Verilog/Example/09 generate/tcl/../testbench/testbench.sv(16)
+#    Time: 30 ns  Iteration: 0  Instance: /testbench
+# Break in Module testbench at D:/Lessons/Arshad 3/Verification/Verilog/Example/09 generate/tcl/../testbench/testbench.sv line 16
+# End time: 14:34:11 on Nov 18,2023, Elapsed time: 0:01:00
+# Errors: 0, Warnings: 0

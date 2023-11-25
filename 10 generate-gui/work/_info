@@ -1,0 +1,90 @@
+m255
+K4
+z2
+!s99 nomlopt
+!s11f vlog 2021.1 2021.01, Jan 19 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/Lessons/Arshad 3/Verification/Verilog/Example/10 generate-gui
+T_opt
+!s110 1700304626
+VNo?FJ7CKPVDL`DWV9nl402
+04 9 4 work testbench fast 0
+=1-a85e45c2d3fe-655896f2-55-4ca4
+!s124 OEM100
+o-quiet -auto_acc_if_foreign -work work
+Z1 tCvgOpt 0
+n@_opt
+OL;O;2021.1;73
+vlatch
+!s110 1700304552
+!i10b 1
+!s100 PGeV5?[^Cz57_chWLjbTN3
+I>T`66X9Qj[Se6P0;GBg8N1
+R0
+w1696193610
+8.\latch.v
+F.\latch.v
+!i122 0
+L0 1 9
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 OL;L;2021.1;73
+r1
+!s85 0
+31
+!s108 1700304552.000000
+!s107 .\latch.v|
+!s90 +acc|.\latch.v|
+!i113 0
+Z4 o+acc -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R1
+vtestbench
+DXx6 sv_std 3 std 0 22 9oUSJO;AeEaW`l:M@^WG92
+!s110 1700304564
+!i10b 1
+!s100 o9?Db1i8WQFkVXUl:6R]l3
+ILho>7h?;38_P9oQH]4DI30
+S1
+R0
+w1696193537
+8.\testbench.sv
+F.\testbench.sv
+!i122 2
+L0 1 18
+R2
+R3
+r1
+!s85 0
+31
+!s108 1700304564.000000
+!s107 .\testbench.sv|
+!s90 +acc|.\testbench.sv|
+!i113 0
+R4
+R1
+vtop
+!s110 1700304559
+!i10b 1
+!s100 Pbll[>93TE3VbePNU?=g10
+Io4:eLnoZoFcC@[FghHhV>0
+R0
+w1696193597
+8.\top.v
+F.\top.v
+!i122 1
+L0 1 12
+R2
+R3
+r1
+!s85 0
+31
+!s108 1700304559.000000
+!s107 .\top.v|
+!s90 +acc|.\top.v|
+!i113 0
+R4
+R1

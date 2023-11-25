@@ -1,0 +1,91 @@
+m255
+K4
+z2
+!s99 nomlopt
+!s11f vlog 2021.1 2021.01, Jan 19 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/Lessons/Arshad 3/Verification/Verilog/Example/09 generate/tcl
+T_opt
+!s110 1700305238
+VLe^V:7f2ZOY6^Yb?D[iQ11
+04 9 4 work testbench fast 0
+=1-a85e45c2d3fe-65589956-c7-2c30
+!s124 OEM100
+o-quiet -auto_acc_if_foreign -work work
+Z1 tCvgOpt 0
+n@_opt
+OL;O;2021.1;73
+R0
+vlatch
+!s110 1700305390
+!i10b 1
+!s100 PGeV5?[^Cz57_chWLjbTN3
+IgCgbhfQD3V>Pl4Z>W_>hH2
+R0
+w1696193610
+8D:/Lessons/Arshad 3/Verification/Verilog/Example/09 generate/tcl/../design/latch.v
+FD:/Lessons/Arshad 3/Verification/Verilog/Example/09 generate/tcl/../design/latch.v
+!i122 3
+L0 1 9
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 OL;L;2021.1;73
+r1
+!s85 0
+31
+Z4 !s108 1700305390.000000
+!s107 D:/Lessons/Arshad 3/Verification/Verilog/Example/09 generate/tcl/../design/latch.v|
+!s90 -reportprogress|300|+acc|D:/Lessons/Arshad 3/Verification/Verilog/Example/09 generate/tcl/../design/latch.v|
+!i113 0
+Z5 o+acc -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R1
+vtestbench
+DXx6 sv_std 3 std 0 22 9oUSJO;AeEaW`l:M@^WG92
+Z6 !s110 1700305391
+!i10b 1
+!s100 o9?Db1i8WQFkVXUl:6R]l3
+IgUnhd81MJHPj3CdUKclnG2
+S1
+R0
+w1696193537
+8D:/Lessons/Arshad 3/Verification/Verilog/Example/09 generate/tcl/../testbench/testbench.sv
+FD:/Lessons/Arshad 3/Verification/Verilog/Example/09 generate/tcl/../testbench/testbench.sv
+!i122 5
+L0 1 18
+R2
+R3
+r1
+!s85 0
+31
+!s108 1700305391.000000
+!s107 D:/Lessons/Arshad 3/Verification/Verilog/Example/09 generate/tcl/../testbench/testbench.sv|
+!s90 -reportprogress|300|+acc|D:/Lessons/Arshad 3/Verification/Verilog/Example/09 generate/tcl/../testbench/testbench.sv|
+!i113 0
+R5
+R1
+vtop
+R6
+!i10b 1
+!s100 Pbll[>93TE3VbePNU?=g10
+IDl^>YTIR:1Sc:]hE9?bH`2
+R0
+w1696193597
+8D:/Lessons/Arshad 3/Verification/Verilog/Example/09 generate/tcl/../design/top.v
+FD:/Lessons/Arshad 3/Verification/Verilog/Example/09 generate/tcl/../design/top.v
+!i122 4
+L0 1 12
+R2
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/Lessons/Arshad 3/Verification/Verilog/Example/09 generate/tcl/../design/top.v|
+!s90 -reportprogress|300|+acc|D:/Lessons/Arshad 3/Verification/Verilog/Example/09 generate/tcl/../design/top.v|
+!i113 0
+R5
+R1
